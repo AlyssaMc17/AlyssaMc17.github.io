@@ -5,8 +5,18 @@
 		<meta name="viewport" content="width=device-width">
 		<title>Coco Curry</title>	
 		<meta name="author" content="Alyssa McWilliams">
+
+		<style>
+h1 {
+	font-family: sans-serif, serif, monospace, cursive, fantasy;
+	font-family: arial;
+	color: #651D33;
+		}
+						
 	</head>
-	<body>
+		</style>
+
+
 		<h1>Coco Curry</h1>
 	
 		<blockquote class="imgur-embed-pub" lang="en" data-id="a/EhsIH"><a href="//imgur.com/EhsIH">Coco Curry</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
@@ -48,9 +58,8 @@
 			 </ol>
 				 
 			</section>	
-					
+		
 </body>
-	
 	
 	
 </html>
