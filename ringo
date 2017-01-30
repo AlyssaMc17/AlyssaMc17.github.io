@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Ringo</title>	
+		<meta name="author" content="Alyssa McWilliams">
+
+		<style>
+h1 {
+	font-family: sans-serif, serif, monospace, cursive, fantasy;
+	font-family: Palatino Linotype;
+	color: #fff;
+	text-align: center;
+	background-color: #000;
+		}
+h2{
+					text-align: center;
+					margin: 1em 0 1em 0;
+					vertical-align: center;
+					border: 4px dotted
+					#fff;
+
+			}		
+h3{
+				text-align: center;
+				background-color: #000;
+				color: #fff;
+				font-family: sans-serif, serif, monospace, cursive, fantasy;
+				font-family: Palatino Linotype;
+				margin: 0 0 0 0;
+				
+	
+			}			
+			
+body {
+		background-color: #002;
+		font-family: sans-serif, serif, monospace, cursive, fantasy;
+		font-family: arial;	
+		color: #fff;
+		margin: 0 5em 0 5em;
+				
+			}
+			
+</head>
+		</style>
+
+
+		<h1>Ringo</h1>
+		
+		<h2> <img src="http://i.imgur.com/ie4A7qt.jpg" width="" height="100" >
+			<img src="http://i.imgur.com/Js9G3Ef.jpg" width="" height="100" >
+			<img src="http://i.imgur.com/NkNvOtz.jpg" width="" height="100" >	
+			<img src="http://i.imgur.com/silQxFP.jpg" width="" height="100" >
+			<img src="http://i.imgur.com/bkE7JBv.jpg" width="" height="100" >	
+		</h2>
+		
+		<h3><img src="http://i.imgur.com/ffhIHrm.jpg" width="" height="100">
+		</h3>
+		
+		<h3>
+			Ringo
+		</h3>
+		
+		<body>
+Born is Georga he grew up in a junk yard and was one of a gang of cats who lived there. When he was still young he got attacked by another cat and is now blind in one eye. He was sent to a shelter to be fixed up, saddly it was a kill shelter and he was deemed "undisirible". Luckly there is a non-profit that offten addopts cats in kill shelters and transports them up nouth to no kill shelters. That is where I found him and was happy to take him home.
+		</body>
+		
+		<h3>
+			<img src="http://i.imgur.com/IEFsqI9.jpg" width="" height="100">
+		</h3>
+		
+		<h3> 
+	Siberians
+		</h3>
+		
+		<body>
+Ringo is a Siberian cat, this is a breed that comes from Russia. They are one of the largest cat breeds only following MainCoons. Due to Ringo bring a mix he is not as large as they come but is certaly one of the longest cats I have seen.
+		</body>
+			
